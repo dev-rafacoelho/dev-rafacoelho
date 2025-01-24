@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor com 1 ano de experiência, 
 - 🎯 **Nome**: Rafael Coelho  
 - 💻 **Experiência**: 1 ano como desenvolvedor  
 - 🌟 **Especialização**: Desenvolvimento front-end e back-end  
-- 🌱 **Aprendendo agora**: Melhorando minhas habilidades em **TypeScript** e **frameworks modernos**.  
+- 🌱 **Aprendendo agora**: Melhorando minhas habilidades em **JavaScript** e **Next**.  
 - 🌐 **Idiomas de Programação**:  
 
 ```bash
