@@ -45,4 +45,11 @@ JavaScript | Python | Lua | TypeScript
 
 ---
 
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/dev-rafacoelho/dev-rafacoelho/blob/output/github-contribution-grid-snake.svg)
+
+
 Obrigado por visitar o meu perfil! 😊
+
+
